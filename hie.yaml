@@ -1,0 +1,7 @@
+cradle:
+  cabal:
+    cabalProject: "./haskell-io.cabal"
+    components:
+      - path: "./app"
+        component: "haskell-io:exe:haskell-io"
+
